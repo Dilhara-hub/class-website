@@ -7,7 +7,7 @@ export default function About() {
         alt="Teacher"
         ClassName="w-20 h-20 rounded-full mx-auto border-2 border-red-600" 
       />
-      <h2 className="mt-4 text-xl">About your teacher</h2>
+      <h2 className="mt-4 text-xl">About Your Teacher</h2>
 
       <p className="mt-4 max-w-xl mx-auto text-gray-300">
        
