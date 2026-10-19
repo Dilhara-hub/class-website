@@ -7,7 +7,7 @@ export default function Navbar() {
     <header className="fixed top-0 left-0 right-0 z-50 bg-red-600 shadow-md">
       <nav className="max-w-6xl mx-auto px-4 md:px-6 py-3 flex items-center justify-between" aria-label="Main Navigation">
         <div className="flex items-center gap-3">
-          <img src="/profile.jpg" alt="Logo" className="w-10 h-10 md:w-12 md:h-12 rounded-full border-2 border-white object-cover" />
+          <img src="/teacher.png" alt="Logo" className="w-10 h-10 md:w-12 md:h-12 rounded-full border-2 border-white object-cover" />
           <div className="leading-tight">
             <a href="#hero" className="text-white font-bold text-base md:text-2xl hover:opacity-90">
               <span className="md:hidden">Dilhara samaranayake</span>
