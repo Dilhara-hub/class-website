@@ -10,7 +10,7 @@ export default function Footer() {
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10 items-start">
 
-          {/* Logo & Brand */}
+          /* {/* Logo & Brand */}
           <div className="text-center md:text-left">
             <div className="flex flex-col sm:flex-row items-center justify-center md:justify-start gap-4 mb-5">
               <div className="p-1 rounded-2xl bg-gradient-to-br from-red-500 to-red-900 shadow-lg shadow-red-600/30">
@@ -19,7 +19,7 @@ export default function Footer() {
                   alt="Dilhara Samaranayake Logo"
                   className="w-28 h-20 rounded-xl object-cover"
                 />
-              </div>
+              </div> */
 
               <div>
                 <h3 className="text-xl font-extrabold text-red-500">
