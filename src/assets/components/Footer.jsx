@@ -15,7 +15,7 @@ export default function Footer() {
             <div className="flex flex-col sm:flex-row items-center justify-center md:justify-start gap-4 mb-5">
               <div className="p-1 rounded-2xl bg-gradient-to-br from-red-500 to-red-900 shadow-lg shadow-red-600/30">
                 <img
-                  src="/image1.jpg"
+                  src="/profile.jpeg"
                   alt="Dilhara Samaranayake Logo"
                   className="w-28 h-20 rounded-xl object-cover"
                 />
