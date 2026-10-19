@@ -8,7 +8,7 @@ export default function Plan() {
           <div  className="bg-white text-black p-4 font-bold">
             නිවැරැදි විෂය කරුණු
             <p className="text-sm mt-2">
-              විෂය නිර්දේශය ආවරණය වන නිවැරදි විෂය කරුණු සම්පිණ්ඩණය කර සිසුන්ට ඉගැන්වීම</p>
+              විෂය නිර්දේශය ආවරණය සහ නිවැරදි විෂය කරුණු සිසුන්ට ඉගැන්වීම</p>
           </div>
           
             <div  className="bg-white text-black p-4 font-bold">
@@ -20,7 +20,7 @@ export default function Plan() {
            <div  className="bg-white text-black p-4 font-bold">
             විශේෂ ප්‍රශ්න පත්‍ර
             <p className="text-sm mt-2">
-              සුවිශේෂ ප්‍රශ්න පත්‍ර මඟින් සිසුන් දැනුමින් සහ අත්දැකීම් මඟින් සාමාන්‍ය පෙළ විභාගයට සූදානම් කරවීම</p>
+              සුවිශේෂ ප්‍රශ්න පත්‍ර මඟින් සිසුන් දැනුමින් සහ අත්දැකීම් මඟින් උසස් පෙළ විභාගයට සූදානම් කරවීම</p>
           </div>
 
           <div  className="bg-white text-black p-4 font-bold">
