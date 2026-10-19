@@ -5,16 +5,19 @@ export default function Timetable() {
 
       <div className="border p-4 space-y-4">
         <div className="flex justify-center">
-          <img src="/Sipyana.jpg" alt="Teacher" className="w-20 h-20 rounded-full" />
+          <img src="/nawashalawa.jpg" alt="Teacher" className="w-20 h-20 rounded-full" />
         </div>
         <div className="flex justify-between">
-          <span>Grade 10</span>
-          <span>Wednesday 4.30 - 7.00pm</span>
+          <span>2027 A/L Rivision</span>
+          <span>ඉරිදා 12.30pm - 5.00pm </span>
+           <span>Online ඉරිදා 8.30pm - 11.00pm </span>
         </div>
 
         <div className="flex justify-between">
-          <span>Grade 11</span>
-          <span>Friday 4.30 - 7.00pm</span>
+          <span>2029 A/L</span>
+          <span>ඉරිදා 8.30 - 11.00 Group A    </span>
+          <span> සෙනසුරාදා  2.30 - 5.00 Group B   </span>
+          </span>
         </div>
       </div>
     </div>
