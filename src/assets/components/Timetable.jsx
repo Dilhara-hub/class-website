@@ -15,7 +15,7 @@ export default function Timetable() {
         </div>
 
         <div className="flex justify-between">
-          <span>2027 A/L Rivision</span>
+          <span>2027 A/L Revision</span>
           <span>ඉරිදා 12.30pm - 5.00pm</span>
           <span>Online ඉරිදා 8.30pm - 11.00pm</span>
         </div>
