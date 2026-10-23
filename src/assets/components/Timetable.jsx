@@ -14,16 +14,16 @@ export default function Timetable() {
           />
         </div>
 
-        <div className="flex justify-between">
+        {/* <div className="flex justify-between">
           <span>2027 A/L Revision</span>
           <span>ඉරිදා 12.30pm - 5.00pm</span>
           <span>Online ඉරිදා 8.30pm - 11.00pm</span>
-        </div>
+        </div> */}
 
         <div className="flex justify-between">
           <span>2029 A/L</span>
-          <span>ඉරිදා 8.30 - 11.00 Group A</span>
-          <span>සෙනසුරාදා 2.30 - 5.00 Group B</span>
+          <span>ඉරිදා 8.30 - 12.00 Group A</span>
+          <span>ඉරිදා 1.00 - 4.30 Group B</span>
         </div>
       </div>
     </div>
